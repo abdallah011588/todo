@@ -1,0 +1,20 @@
+{
+
+  "Tasks": "Tasks",
+  "Done": "Done",
+  "Archived": "Archived",
+  "Delete": "Delete",
+  "Add_your_tasks_to_manage_your_time": "Add your tasks to manage your time",
+  "Add_Task": "Add new task",
+  "Task_Title": "Task title",
+  "Task_Time": "Task time",
+  "Task_Date": "Task date",
+
+  "Task_Title_Empty": "Task title can not be empty !",
+  "Task_Time_Empty": "Task time can not be empty !",
+  "Task_Date_Empty": "Task date can not be empty !",
+
+  "Task_content": "Task content"
+
+
+}
